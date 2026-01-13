@@ -1,0 +1,1 @@
+streamlit run "C:\Users\yogen\OneDrive\Desktop\api_data_aadhar_enrolment\api_data_aadhar_enrolment\early_warning_system.py"
